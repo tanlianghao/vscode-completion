@@ -2,6 +2,7 @@
   "name": "xp-completion-widget",
   "displayName": "xp-completion-widget",
   "description": "公共组件预览补全",
+  "publisher": "tanlh",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.91.0"
